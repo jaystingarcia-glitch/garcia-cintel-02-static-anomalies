@@ -13,7 +13,7 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Jaystin Garcia
 
 Date: 2026 October
 
